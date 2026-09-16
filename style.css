@@ -1,0 +1,38 @@
+#c-strogest-rules{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height:normal;
+    letter-spacing: 0.5px;
+
+}
+
+
+h1{
+    background-color: aliceblue;
+    color: brown;
+}
+
+body{
+    
+    background-color: rgb(183, 173, 173);
+
+}
+
+footer{
+    background-color: brown;
+    
+}
+
+.c-title.page{
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.c-first-paragrath{
+    font-weight: bold;
+}
+
+.c-second-paragrath{
+    font-style: italic;
+}
