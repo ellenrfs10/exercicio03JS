@@ -1,3 +1,16 @@
+html {
+    font-size: 16px;
+}
+
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:normal;
+    font-size:small;
+    margin:0;
+    
+}
+
 #c-strogest-rules{
     
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -12,10 +25,10 @@ h1{
     background-color: darkblue;
     color: white;
     font-weight: bold;
-    font-size: large;
+    font-size: 2rem;
 }
 h2{
-    font-size: medium;
+    font-size: 1rem;
     color: white;
     font-weight: bold;
     background-color: darkblue;
@@ -29,13 +42,7 @@ p{
 }
 
 
-body{
-    
-    font-family: Arial, Helvetica, sans-serif;
-    line-height:normal;
-    font-size:small;
-    
-}
+
 
 footer{
     background-color: brown;
@@ -57,7 +64,7 @@ footer{
 
 .container{
     display: flex;
-    height: auto;
+    height: 100%;
     justify-content: flex-start;
     align-items: baseline;
 
@@ -67,5 +74,13 @@ footer{
     width: 100px;
     padding: 10px;
     border: 2px solid navy;
+
+}
+
+.container-fixo {
+  width: 300px;
+  background-color: coral;
+  padding: 1rem;
+  margin-top: 1rem;
 
 }
