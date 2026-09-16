@@ -54,3 +54,18 @@ footer{
 .c-second-paragrath{
     font-style: italic;
 }
+
+.container{
+    display: flex;
+    height: auto;
+    justify-content: flex-start;
+    align-items: baseline;
+
+}
+.button{
+    box-sizing: border-box;
+    width: 100px;
+    padding: 10px;
+    border: 2px solid navy;
+
+}
